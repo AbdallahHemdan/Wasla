@@ -1,8 +1,8 @@
 clear;clc;
 
-[x1, Fs1] = audioread('Team 29_ speech signal_1.mp3');
-[x2, Fs2] = audioread('Team 29_ speech signal_2.mp3');
-[x3, Fs3] = audioread('Team 29_ speech signal_3.mp3');
+[x1, Fs1] = audioread('./../audio/Team 29_ speech signal_1.mp3');
+[x2, Fs2] = audioread('./../audio/Team 29_ speech signal_2.mp3');
+[x3, Fs3] = audioread('./../audio/Team 29_ speech signal_3.mp3');
 
 Fc1 = 1 * 1e4;
 Fc2 = 1 * 5e3;
