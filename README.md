@@ -1,27 +1,27 @@
 <div align="center">
 
-![Component 17](https://user-images.githubusercontent.com/40190772/105380975-27670c00-5c17-11eb-9158-b39d562e7b9f.png)
+![component 17](https://user-images.githubusercontent.com/40190772/105380975-27670c00-5c17-11eb-9158-b39d562e7b9f.png)
 
 
 </div>
 
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/Com)](https://github.com/AbdallahHemdan/Com/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Com)](https://github.com/AbdallahHemdan/Com/issues)
-[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Com)](https://github.com/AbdallahHemdan/Com/network)
-[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Com)](https://github.com/AbdallahHemdan/Com/stargazers)
-[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Com)](https://github.com/AbdallahHemdan/Com/blob/master/LICENSE)
-<img src="https://img.shields.io/github/languages/count/AbdallahHemdan/Com" />
-<img src="https://img.shields.io/github/languages/top/AbdallahHemdan/Com" />
-<img src="https://img.shields.io/github/languages/code-size/AbdallahHemdan/Com" />
-<img src="https://img.shields.io/github/issues-pr-raw/AbdallahHemdan/Com" />
+[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/Wasla)](https://github.com/AbdallahHemdan/Wasla/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Wasla)](https://github.com/AbdallahHemdan/Wasla/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Wasla)](https://github.com/AbdallahHemdan/Wasla/network)
+[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Wasla)](https://github.com/AbdallahHemdan/Wasla/stargazers)
+[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Wasla)](https://github.com/AbdallahHemdan/Wasla/blob/master/LICENSE)
+<img src="https://img.shields.io/github/languages/count/AbdallahHemdan/Wasla" />
+<img src="https://img.shields.io/github/languages/top/AbdallahHemdan/Wasla" />
+<img src="https://img.shields.io/github/languages/code-size/AbdallahHemdan/Wasla" />
+<img src="https://img.shields.io/github/issues-pr-raw/AbdallahHemdan/Wasla" />
 
 
 </div>
 
 ## About
-> Com is a project to modulate three speech signals using the following scheme: `𝑠(𝑡) = 𝑥1(𝑡) cos 𝜔1𝑡 + 𝑥2(𝑡) cos 𝜔2𝑡 + 𝑥3(𝑡) sin 𝜔2𝑡`, and then perform synchronous demodulation
+> Wasla is a project to modulate three speech signals using the following scheme: `𝑠(𝑡) = 𝑥1(𝑡) cos 𝜔1𝑡 + 𝑥2(𝑡) cos 𝜔2𝑡 + 𝑥3(𝑡) sin 𝜔2𝑡`, and then perform synchronous demodulation
 
 ## Modulated signal
 
@@ -54,3 +54,13 @@
 - Shifting by 90 degree strongly attenuates the speech signals and it seems like no output speech.
 
 
+### Contributors
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AbdallahHemdan"><img src="https://avatars1.githubusercontent.com/u/40190772?s=460&v=4" width="150px;" alt=""/><br /><sub><b>Abdallah Hemdan</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/AdelRizq"><img src="https://avatars2.githubusercontent.com/u/40351413?s=460&v=4" width="150px;" alt=""/><br /><sub><b>Adel Mohamed</b></sub></a><br /></td>
+  </tr>
+ </table>
+
+### Licence
+[MIT Licence](https://github.com/AbdallahHemdan/Wasla/blob/master/LICENSE)
