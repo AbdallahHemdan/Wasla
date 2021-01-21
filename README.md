@@ -55,12 +55,17 @@
 
 
 ### Contributors
+
+<div align="center">
+  
 <table>
   <tr>
     <td align="center"><a href="https://github.com/AbdallahHemdan"><img src="https://avatars1.githubusercontent.com/u/40190772?s=460&v=4" width="150px;" alt=""/><br /><sub><b>Abdallah Hemdan</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/AdelRizq"><img src="https://avatars2.githubusercontent.com/u/40351413?s=460&v=4" width="150px;" alt=""/><br /><sub><b>Adel Mohamed</b></sub></a><br /></td>
   </tr>
  </table>
+ 
+ </div>
 
 ### Licence
 [MIT Licence](https://github.com/AbdallahHemdan/Wasla/blob/master/LICENSE)
